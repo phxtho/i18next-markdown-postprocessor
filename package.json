@@ -1,0 +1,19 @@
+{
+  "name": "i18next-markdown-postprocessor",
+  "version": "0.1.0",
+  "description": "Write markdown in your i18next translation strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "i18next",
+    "react"
+  ],
+  "author": "phxtho",
+  "license": "ISC",
+  "dependencies": {
+    "html-react-parser": "^1.2.4",
+    "markdown-it": "^12.0.4"
+  }
+}
