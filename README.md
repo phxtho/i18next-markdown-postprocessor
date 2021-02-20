@@ -26,9 +26,7 @@ function MyComponent(props) {
   );
 }
 ```
-if you want to use it across all your translated strings add it to i18next's init options instead
-
-or, if you're using it in more than just a few places, it might be worth adding to i18next's init options instead:
+if you want to use it across all your translated strings add it to i18next's init options instead:
 
 ```javascript
 i18next
